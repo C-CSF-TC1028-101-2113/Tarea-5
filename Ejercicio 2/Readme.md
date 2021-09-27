@@ -19,7 +19,7 @@ if __name__ == '__main__':
 ```
 
 La línea `#escribe tu código abajo de esta línea` es un comentario,
-el programa la va a ignorar al ejecutarse. Recuerda quitar la instruccion 'pass'
+el programa la va a ignorar al ejecutarse. Recuerda quitar la instruccion 'pass'.
 
 La salida del programa debe de ser solamente el resultado, sin leyendas ni mensajes, debe ser de la siguiente forma:
 
