@@ -32,11 +32,11 @@ La salida del programa debe de ser exactamente de la siguiente forma:
 
 Ejemplo de ejecución del programa:
 
-Entrada: 
-7
+```
+Entrada: 7
 
 Salida:
-```
+
 1-#
 2-%
 3-#
